@@ -1,9 +1,9 @@
 @font-face{
-    font-family: 'FiraCode';
+    font-family: "geosanslight";
     font-display: swap;
-    src: url('../font/FiraCode.ttf') format("truetype");
+    src: url('geosanslight.ttf') format('truetype');
 }
 
-body {
-    font-family: "Microsoft YaHei", 'FiraCode', 'GeosansLight', 'NotoSerifSC-Light', 'SourceHanSansCN-Light';
+.line {
+    font-family: "geosanslight";
 }
